@@ -52,8 +52,12 @@
   <a href="mailto:ckdwjd2717@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <a href="mailto:ckdwjd2717@naver.com">
+    <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">  
+  </a>
+  <a href="https://www.notion.so/48076b615e3146d6983ae221be535c83">
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
 </div>
 <br><br>
 
